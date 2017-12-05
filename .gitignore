@@ -1,0 +1,11 @@
+*.seed
+*.log
+*.pid
+*.gz
+*.zip
+
+.idea
+
+npm-debug.log
+node_modules
+.DS_Store

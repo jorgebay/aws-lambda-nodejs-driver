@@ -1,0 +1,12 @@
+{
+  "name": "aws-lambda-nodejs-driver",
+  "description": "A demo AWS Lambda function using the DataStax Node.js driver",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "dse-driver": "~1.4.0"
+  },
+  "engines": {
+    "node": ">=6.10"
+  }
+}
